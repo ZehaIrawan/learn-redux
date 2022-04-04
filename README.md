@@ -1,5 +1,6 @@
 ### Task List
 
-- [ ] Setup Material UI
+- [x] Setup Material UI
 - [ ] Setup Redux toolkit
-- [ ] 
+- [ ] Fetch data from jsonplaceholder and display it
+
